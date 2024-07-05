@@ -1,6 +1,6 @@
 # Study cases
 
-**Trainig cases provided by Yandex-Practicum courses "Data Science" and "Data Analyst"**
+**Trainig cases provided by Yandex-Practicum courses "Data Science"**
 
 | Case                  | Description           | Tools and Skills          |
 |:----------------------|:----------------------|:--------------------------|
