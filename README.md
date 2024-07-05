@@ -2,7 +2,7 @@
 
 **Trainig cases provided by Yandex-Practicum courses "Data Science" and "Data Analyst"**
 
-| Project               | Description           | Tools and Skills          |
+| Case                  | Description           | Tools and Skills          |
 |:----------------------|:----------------------|:--------------------------|
 | [Классификация комментариев на позитивные и негативные]() | На основе набора размеченных данных построить модель для выявления токсичных комментариев для их последующей отправки на модерацию | `Python`, `spacy`, `nltk`, `TfidfVectorizer`, `BERT`, `PyTorch`,`Pandas`, `Seaborn`, `OptunaSearchCV`, NLP, TF-IDF, токенизация, лемматизация, обработка естественного языка, нейросети, трансформеры |
 | [Определение возраста покупателей по фото]() | Создать модель для определения примерного возраста клиентов на кассе супермаркета | `Python`, `Tensorflow`, `Keras`, `Seaborn`, `ResNet`, Computer Vision, Нейросети, Обработка изображений |
